@@ -1,6 +1,11 @@
 
 # DIATONICAL | Diatonic Chord Engine
 
+<p align="center">
+  <br>
+  <img src="screenshot.png" alt="DIATONICAL screenshot" width="200"/>
+</p>
+
 **DIATONICAL** DIATONICAL operates on the principles of **Modulo-12 Arithmetic** and **Set Theory**.
 In music science where the chromatic scale is represented as a set. When you select a "Key" and "Scale," the engine defines a **Subset**. For any chosen scale degree , the engine generates a triad by applying a **Skip-1 Permutation** across the subset. This is a practical(ish) application of Combinatorial Harmony, where we restrict the total possible note combinations () to essentially just those that satisfy the specific interval vectors of Major or Minor scales.
 
