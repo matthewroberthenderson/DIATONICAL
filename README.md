@@ -1,5 +1,5 @@
 
-# DIATONICAL | Diatonic Chord Engine
+# DIATONICAL
 
 <p align="center">
   <br>
